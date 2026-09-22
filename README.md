@@ -5,6 +5,7 @@
 *You can use the custom tap:* 
 
 ```bash
+brew trust mikemcduffie/homebrew-tap/keymaster
 brew install mikemcduffie/homebrew-tap/keymaster
 ```
 
