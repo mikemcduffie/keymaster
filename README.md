@@ -1,5 +1,9 @@
 # Keymaster
 
+Note: This is a for of johnthethird's original repository to support installation via [homebrew](https://brew.sh/). I have simply reorganized the folder structure and added releases/tags. No code changes have been made to date.
+
+You can use the custom tap: `brew install mikemcduffie/homebrew-tap/keymaster`
+
 Keymaster is a small binary written in Swift that allows scripts to access the Mac Keychain guarded by TouchID.
 
 Macs come with the `security` command which can get and set secrets to the Keychain:
